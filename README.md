@@ -237,3 +237,4 @@ Key insights and Recommendations:
 
 **Suggestions**: Increase marketing and expand market share in the period 2025 & 2026 to take advantage of the uptrend. Control the risk of sales decline as happened in 2022. Focus on product groups and stores with high sales to optimize investment efficiency.
 
+**Here is the link for all necessary documents** : [LINK](https://drive.google.com/file/d/13jo5jYt3uLmGsFI1B1LpISnTuunqwqE1/view?usp=sharing)
