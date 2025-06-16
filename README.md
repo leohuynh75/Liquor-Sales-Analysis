@@ -35,6 +35,7 @@ Afer this step, I will check if any of the rows with duplicated Store Numbers al
 The NA value of the City column has decreased from 53231 to only 509. After considering the number of NAs compared to the number of records in the data (over 17 million), I will handle them by removing them from the dataset.
 
 For NA values in the Category Name column, I will fill them with the mode value of this column. And for the remaining NA values in the 2 columns (Vendor Number and Vendor Name), I will remove them from the data. Here is the result of cleaning all of missing values:
+
 ![](images/fig.4.png)
 
 Next, I will proceed to handle the duplicate records (about more than 2 million duplicated records by deleting them and keeping only the first record.
