@@ -213,23 +213,24 @@ Key insights and Recommendations:
 
 **Suggestions**: Review factors affecting the decline in 2022 (COVID, or change in partners, etc). Increase marketing campaigns during weak periods to maintain growth. 
 
-2) Top 3 stores contribute nearly 2.5 million sales (~2.3% of total sales):
+2) Top 3 stores contribute only 2.5 million sales (~2.3% of total sales):
 - HY-VEE #3: ~978K
 - CENTRAL CITY 2: ~ 923K
 - BENZ DISTRIBUTING: ~610K
+=> This shows that this retail market is extremely fragmented, highly competitive, and difficult to capture a large market share at the store level, or because users have the habit of shopping from many different channels, not focusing on any store.
   
-**Suggestions**: These are strategic points of sale – need to prioritize supply, special care. Consider opening more branches near this area or analyze purchasing behavior here to apply to other areas.
+**Suggestions**: If you're a retailer: Competition on price and service will be very high → need to have a different strategy, such as focusing on the high-end segment, customer experience, or selling with services.
 
 3) Only 3 categories account for the majority of sales American Vodkas account for more than 20M bottles (nearly 20% of total sales). Canadian Whiskies & Straight Bourbons account for about 11M & 6M respectively.
    
 **Suggestions**: Focus on promoting top categories more, as they already have a stable market. At the same time, consider repositioning or improving the weak product portfolio, expanding market share.
 
-4) Top 3 vendors only account for ~35% of the market share => fragmented market:
+4) Top 3 vendors account for ~35% of the market share => a market that is strongly dominated by big brands
 - DIAGEO AMERICAS: 15.59%
 - SAZERAC COMPANY INC: 10.64%
 - LUXCO INC: 8.85%
   
-**Suggestions**: Do not rely solely on large vendors – evaluate the performance of small vendors. Find new vendors to optimize costs, or coordinate with many vendors to ensure a stable supply chain.
+**Suggestions**: If you're a manufacturer or want to participate in the supply chain: Cooperating with big vendors can help bring products to more points of sale.
 
 5) Sales forecasting for 2025 and 2026: 
 + Sales are forecast to increase steadily, from 16.6M (2024) to 17.9M (2025), and to 18.5M (2026) => Growth trend returns after a slowdown in 2022. 
